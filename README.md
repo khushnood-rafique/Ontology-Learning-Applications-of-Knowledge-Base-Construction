@@ -17,3 +17,5 @@ user with a much more technical and comprehensive understanding of an expert pie
 is achieved by applying the process of named entity recognition (NER) for knowledge extraction.
 This paper provides a result report of the current status of our knowledge construction process and
 knowledge base content, as well as describes our challenges and experiences.
+
+Link to paper: https://www.mdpi.com/2078-2489/14/3/176
